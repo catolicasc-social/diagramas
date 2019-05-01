@@ -1,5 +1,9 @@
 # Diagramas Restaurante Comunitário
 
+## Fluxo de desenvolvimento do projeto:
+
+![Fluxo de desenvolvimento do projeto](https://github.com/catolicasc-social/diagramas/blob/master/Projeto%20-%20Fluxo%20de%20desenvolvimento.png?raw=true)
+
 ## Setup:
 
 ![Setup](https://github.com/catolicasc-social/diagramas/blob/master/Restaurante%20Popular%20-%20Setup.png?raw=true)
