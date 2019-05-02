@@ -1,6 +1,6 @@
 # Diagramas Restaurante Comunitário
 
-## Fluxo de desenvolvimento do projeto (web):
+## Fluxo de desenvolvimento do projeto (frontend):
 
 ![Fluxo de desenvolvimento do projeto web](https://github.com/catolicasc-social/diagramas/blob/master/Projeto%20-%20Fluxo%20de%20desenvolvimento.png?raw=true)
 
